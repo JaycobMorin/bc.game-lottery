@@ -1,0 +1,16 @@
+
+.lottery-card {
+  background-color: #34516d;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.lottery-card button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #f5c842;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

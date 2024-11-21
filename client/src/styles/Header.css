@@ -1,0 +1,23 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #233145;
+  color: white;
+}
+
+.header .logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.header nav ul {
+  display: flex;
+  gap: 1rem;
+}
+
+.header nav ul li {
+  list-style: none;
+  cursor: pointer;
+}

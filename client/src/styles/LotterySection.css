@@ -1,0 +1,10 @@
+
+.lottery-section {
+  padding: 2rem;
+  background-color: #293b4d;
+}
+
+.lottery-cards {
+  display: flex;
+  gap: 1rem;
+}
